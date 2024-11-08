@@ -3,9 +3,13 @@ This project aims to connect online and offline behaviour, trying to understand 
 
 ## Dataset used
   ### Epidemic
-    cases
-    excess mortality
-    vaccination
+  
+  
+  cases
+  
+  excess mortality
+  
+  vaccination
 
   ### Digital
     X/Twitter
