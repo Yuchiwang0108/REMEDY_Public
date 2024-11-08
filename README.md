@@ -4,12 +4,17 @@ This project aims to connect online and offline behaviour, trying to understand 
 ## Dataset used
   ### Epidemic
   
-  
-  cases
-  
-  excess mortality
-  
-  vaccination
+| Metrics                     | Source                                                    | Accessed/Updated* | Countries |
+|-----------------------------|-----------------------------------------------------------|---------|-----------|
+| Vaccinations                | Our World in Data team                                    | Daily   | 32       |
+| Hospital & ICU              | Our World in Data team                                    | Daily   | 32       |
+| Confirmed cases             | WHO COVID-19 Data                                         | Daily   | 32        |
+| Confirmed deaths            | WHO COVID-19 Data                                         | Daily   | 32      |
+| Reproduction rate           | Arroyo-Marioli F, Bullano F, Kucinskas S, Rondón-Moreno C | Daily   | 32        |
+| Policy responses            | Oxford COVID-19 Government Response Tracker               | Daily   | 32        |
+| Other variables of interest | International organizations (UN, World Bank, OECD, IHME…) | Fixed   | 32       |
+| Excess mortality            | Human Mortality Database (STMF)                           | Weekly  | 31        |
+
 
   ### Digital
     X/Twitter
