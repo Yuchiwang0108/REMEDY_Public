@@ -4,7 +4,7 @@ This project aims to connect online and offline behaviour, trying to understand 
 ## Dataset used
   ### Epidemic
   
-| Metrics                     | Source                                                    | Accessed/Updated* | Countries |
+| Data                     | Source                                                    | Accessed/Updated* | Countries |
 |-----------------------------|-----------------------------------------------------------|---------|-----------|
 | Vaccinations                | Our World in Data team                                    | Daily   | 32       |
 | Hospital & ICU              | Our World in Data team                                    | Daily   | 32       |
@@ -17,6 +17,12 @@ This project aims to connect online and offline behaviour, trying to understand 
 
 
   ### Digital
+  | Data                     | Source                                                    | Accessed/Updated* | Countries |
+|-----------------------------|-----------------------------------------------------------|---------|-----------|
+| Infodemic Index              | [Covid19 Infodemics Observatory ](https://covid19obs.fbk.eu/)    | Daily   | 32       |
+| X/Tweets             | Our World in Data team                                    | Daily   | 32       |
+
+
     X/Twitter
     YouTube
     Google Trends  
