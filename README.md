@@ -19,14 +19,17 @@ This project aims to connect online and offline behaviour, trying to understand 
   ### Digital
   | Data                     | Source                                                    | Accessed/Updated* | Countries |
 |-----------------------------|-----------------------------------------------------------|---------|-----------|
-| Infodemic Index              | [Covid19 Infodemics Observatory ](https://covid19obs.fbk.eu/)    | Daily   | 32       |
-| X/Tweets             | Our World in Data team                                    | Daily   | 32       |
-
-
-    X/Twitter
-    YouTube
-    Google Trends  
+| Infodemic Index             | [Covid19 Infodemics Observatory ](https://covid19obs.fbk.eu/)        | Daily   | 32       |
+| X/Tweets                    | X API                                                    | 2022     | 12       |
+| YouTube                     | YouTube API                                              |          |4        |
+|  Google Trends              | Google API                                               |          | 4        |
 
   ### Social & Political
+  | Data                     | Source                                                    | Accessed/Updated* | Countries |
+|-----------------------------|-----------------------------------------------------------|---------|-----------|
+| COVID-related Civil Protests| [COVID Disorder Tracker - ACLED](https://acleddata.com/analysis/covid-19-disorder-tracker/#1585775314361-2ee40e97-5aec)        | Daily   | 32       |
+
+
+  
 ## Analysis carried out
 
