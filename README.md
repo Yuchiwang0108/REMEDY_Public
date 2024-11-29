@@ -11,8 +11,6 @@ This project aims to connect online and offline behaviour, trying to understand 
 | Confirmed cases             | WHO COVID-19 Data                                         | Daily   | 32        |
 | Confirmed deaths            | WHO COVID-19 Data                                         | Daily   | 32      |
 | Reproduction rate           | Arroyo-Marioli F, Bullano F, Kucinskas S, Rondón-Moreno C | Daily   | 32        |
-| Policy responses            | Oxford COVID-19 Government Response Tracker               | Daily   | 32        |
-| Other variables of interest | International organizations (UN, World Bank, OECD, IHME…) | Fixed   | 32       |
 | Excess mortality            | Human Mortality Database (STMF)                           | Weekly  | 31        |
 
 
@@ -20,15 +18,15 @@ This project aims to connect online and offline behaviour, trying to understand 
   | Data                     | Source                                                    | Accessed/Updated* | Countries |
 |-----------------------------|-----------------------------------------------------------|---------|-----------|
 | Infodemic Index             | [Covid19 Infodemics Observatory ](https://covid19obs.fbk.eu/)        | Daily   | 32       |
-| X/Tweets                    | X API                                                    | 2022     | 12       |
+| X/Tweets                    | X API                                                    | Daily  | 12       |
 | YouTube                     | YouTube API                                              |  2022        |4        |
-|  Google Trends              | Google API                                               |  2023        | 4        |
+|  Google Trends              | Google API                                               |  Weekly      | 4        |
 
   ### Social & Political
   | Data                     | Source                                                    | Accessed/Updated* | Countries |
 |-----------------------------|-----------------------------------------------------------|---------|-----------|
-| COVID-related Civil Protests| [COVID Disorder Tracker - ACLED](https://acleddata.com/analysis/covid-19-disorder-tracker/#1585775314361-2ee40e97-5aec)        | Daily   | 32  |
-
+| COVID-related Civil Protests| [COVID Disorder Tracker - ACLED](https://acleddata.com/analysis/covid-19-disorder-tracker/#1585775314361-2ee40e97-5aec)        | Daily   | 32  | Policy responses            | Oxford COVID-19 Government Response Tracker               | Daily   | 32        |
+| Other variables of interest | International organizations (UN, World Bank, OECD, IHME…) | Fixed/Yearly   | 32       |
 
   
 ## Analysis carried out
