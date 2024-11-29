@@ -21,15 +21,16 @@ This project aims to connect online and offline behaviour, trying to understand 
 |-----------------------------|-----------------------------------------------------------|---------|-----------|
 | Infodemic Index             | [Covid19 Infodemics Observatory ](https://covid19obs.fbk.eu/)        | Daily   | 32       |
 | X/Tweets                    | X API                                                    | 2022     | 12       |
-| YouTube                     | YouTube API                                              |          |4        |
-|  Google Trends              | Google API                                               |          | 4        |
+| YouTube                     | YouTube API                                              |  2022        |4        |
+|  Google Trends              | Google API                                               |  2023        | 4        |
 
   ### Social & Political
   | Data                     | Source                                                    | Accessed/Updated* | Countries |
 |-----------------------------|-----------------------------------------------------------|---------|-----------|
-| COVID-related Civil Protests| [COVID Disorder Tracker - ACLED](https://acleddata.com/analysis/covid-19-disorder-tracker/#1585775314361-2ee40e97-5aec)        | Daily   | 32       |
+| COVID-related Civil Protests| [COVID Disorder Tracker - ACLED](https://acleddata.com/analysis/covid-19-disorder-tracker/#1585775314361-2ee40e97-5aec)        | Daily   | 32  |
 
 
   
 ## Analysis carried out
+The Infodemic-Pandemic Nexus: Analysing the Impact of Misinformation on Population Health, STATA do-file
 
