@@ -15,12 +15,12 @@ This project aims to connect online and offline behaviour, trying to understand 
 
 
   ### Digital
-  | Data                     | Source                                                    | Accessed/Updated* | Countries |
+  | Data                     | Source                                                    | Accessed/Updated* | Countries/Languages |
 |-----------------------------|-----------------------------------------------------------|---------|-----------|
 | Infodemic Index             | [Covid19 Infodemics Observatory ](https://covid19obs.fbk.eu/)        | Daily   | 32       |
 | X/Tweets                    | X API                                                    | Daily  | 12       |
-| YouTube                     | YouTube API                                              |  2022        |4        |
-|  Google Trends              | Google API                                               |  Weekly      | 4        |
+| YouTube                     | YouTube API                                              |  2022        |3        |
+|  Google Trends              | Google API                                               |  Weekly      | 3        |
 
   ### Social & Political
   | Data                     | Source                                                    | Accessed/Updated* | Countries |
