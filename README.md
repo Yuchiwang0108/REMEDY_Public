@@ -25,7 +25,8 @@ This project aims to connect online and offline behaviour, trying to understand 
   ### Social & Political
   | Data                     | Source                                                    | Accessed/Updated* | Countries |
 |-----------------------------|-----------------------------------------------------------|---------|-----------|
-| COVID-related Civil Protests| [COVID Disorder Tracker - ACLED](https://acleddata.com/analysis/covid-19-disorder-tracker/#1585775314361-2ee40e97-5aec)        | Daily   | 32  | Policy responses            | Oxford COVID-19 Government Response Tracker               | Daily   | 32        |
+| COVID-related Civil Protests| [COVID Disorder Tracker - ACLED](https://acleddata.com/analysis/covid-19-disorder-tracker/#1585775314361-2ee40e97-5aec)        | Daily   | 32  |
+|Policy responses            | Oxford COVID-19 Government Response Tracker               | Daily   | 32        |
 | Other variables of interest | International organizations (UN, World Bank, OECD, IHME…) | Fixed/Yearly   | 32       |
 
   
